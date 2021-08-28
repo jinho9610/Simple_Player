@@ -1,0 +1,8 @@
+﻿  draw_one_tri_with_texture.cpp
+C:\Users\jinho\OneDrive\바탕 화면\sw\C++\OpenGL Example\draw_one_tri_with_texture.cpp(17,9): warning C4068: 알 수 없는 pragma 'commnet'
+  코드를 생성하고 있습니다.
+  3 of 257 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenGL Example.vcxproj -> C:\Users\jinho\OneDrive\바탕 화면\sw\C++\OpenGL Example\x64\Release\OpenGL Example.exe
